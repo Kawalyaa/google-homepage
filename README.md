@@ -1,7 +1,9 @@
 # GOOGLE HOME PAGE
 
 This is my first project on microverse.
+
 Designing the most popular search engine.
+
 This branch contains a goole search home page ui templet.
 
 ## Built with
